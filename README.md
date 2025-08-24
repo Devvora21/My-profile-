@@ -1,7 +1,7 @@
 # My-profile-
 # Hi there 👋, I'm Dev  
 
-💡 Passionate about **AI, Machine Learning, and Cybersecurity**  
+💡 Passionate about **AI, Machine Learning**  
 🔨 Currently working on:  
 - A **Personalized Learning Web Application** (Python + MySQL + Web Tech)  
 - An **AI Tools Directory Website** showcasing real-world AI applications  
